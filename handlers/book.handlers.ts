@@ -76,6 +76,7 @@ export const addBook = async ({
 
   BOOKS.push(newBook);
 
+  response.status = 201;
   response.body = { msg: "Book created", dto: newBook };
 };
 
