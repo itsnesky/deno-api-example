@@ -15,14 +15,14 @@ export const BOOKS: Book[] = [
   },
   {
     isbn: "111-7-65623-211-9",
-    name: "Claw of Fire",
+    name: "Clemency",
     author: "Jordan Mercury",
     pages: 43,
   },
   {
     isbn: "764-4-55555-211-2",
     name: "Clue of the Black Map",
-    author: "John Doe",
+    author: "Max Denial",
     pages: 931,
   },
 ];
